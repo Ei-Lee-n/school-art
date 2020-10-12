@@ -1,38 +1,15 @@
-# hello
-## Welcome to GitHub Pages
+# Welcome!
+This is my page to show off my art and will contain a mix of digital and traditional art, as well as some photography. I hope you enjoy them as much as I do!
+### Disclaiimer
+The artwork posted up until now has been created during quarantine. Please note that instructional quality will not be as high as if it were in-person (to no fault of the teacher).
 
-You can use the [editor on GitHub](https://github.com/Ei-Lee-n/school-art/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Observational Shoe Drawing
+This exercise is a test of how well you can put what you see on paper and uses technical skills like shading, textures, and lines.
+<insert photo here>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Forced Perspective Photography
+You've probably seen photos of [objects that seem bigger or smaller based on the angle of the shot] (http://www.instantshift.com/2010/08/24/88-brilliant-examples-of-forced-perspective-photography/) to create an amusing composition. This is my at-home take on it.
+<insert photo here>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ei-Lee-n/school-art/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Outside Photography
+Forced perspective isn't just used in photography. It might most often be used in filmography and archetecture. It was a key component in the appearance of the [short statures of the hobbits in The Lord of the Rings] (https://youtu.be/QWMFpxkGO_s) and it can similarly make certain props look bigger or smaller in frame. In archetecture, you often see forced perspective used to make a structure appear bigger or longer than it actually is, which also can be applied to sets in film making.
