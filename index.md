@@ -1,5 +1,5 @@
 # Welcome!
-This is my page to show off my art and will contain a mix of digital and traditional art, as well as some photography. I hope you enjoy them as much as I do!
+This is my page to show off my art containing a mix of digital and traditional art, as well as some photography. I hope you enjoy!
 ### Disclaimer
 The artwork posted up until now has been created during quarantine. Please note that instructional quality will not be as high as if it were in-person (to no fault of the teacher).
 
