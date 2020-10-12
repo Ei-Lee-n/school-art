@@ -5,7 +5,7 @@ The artwork posted up until now has been created during quarantine. Please note 
 
 ## Observational Shoe Drawing
 This exercise is a test of how well you can put what you see on paper and uses technical skills like shading, textures, and lines.
-insert photo here
+![shoo](https://photos.app.goo.gl/DbnazUh41FYbfJRU8)
 
 ## Forced Perspective Photography
 You've probably seen photos of [objects that seem bigger or smaller based on the angle of the shot](http://www.instantshift.com/2010/08/24/88-brilliant-examples-of-forced-perspective-photography/) to create an amusing composition. This is my at-home take on it.
